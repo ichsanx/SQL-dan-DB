@@ -1,2 +1,2 @@
 # SQL-dan-DB
-Script dan DataBase
+Script SQL dan DataBase
